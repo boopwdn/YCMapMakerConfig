@@ -1,0 +1,269 @@
+{
+    "authors": ["bin_bin233"],
+    "rules": [
+        {
+            "range": {
+                "first": {
+                    "x": 58,
+                    "y": 123,
+                    "z": 121
+                },
+                "second": {
+                    "x": 59,
+                    "y": 124,
+                    "z": 122
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 58,
+                    "y": 123,
+                    "z": 121
+                },
+                "second": {
+                    "x": 59,
+                    "y": 124,
+                    "z": 122
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 58,
+                    "y": 124,
+                    "z": 121
+                },
+                "second": {
+                    "x": 59,
+                    "y": 125,
+                    "z": 122
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 58,
+                    "y": 123,
+                    "z": 120
+                },
+                "second": {
+                    "x": 59,
+                    "y": 124,
+                    "z": 121
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 58,
+                    "y": 124,
+                    "z": 120
+                },
+                "second": {
+                    "x": 59,
+                    "y": 125,
+                    "z": 121
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 58,
+                    "y": 124,
+                    "z": 119
+                },
+                "second": {
+                    "x": 59,
+                    "y": 125,
+                    "z": 120
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 58,
+                    "y": 123,
+                    "z": 119
+                },
+                "second": {
+                    "x": 59,
+                    "y": 124,
+                    "z": 120
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 57,
+                    "y": 123,
+                    "z": 119
+                },
+                "second": {
+                    "x": 58,
+                    "y": 124,
+                    "z": 120
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 57,
+                    "y": 124,
+                    "z": 119
+                },
+                "second": {
+                    "x": 58,
+                    "y": 125,
+                    "z": 120
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 57,
+                    "y": 124,
+                    "z": 118
+                },
+                "second": {
+                    "x": 58,
+                    "y": 125,
+                    "z": 119
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 57,
+                    "y": 123,
+                    "z": 118
+                },
+                "second": {
+                    "x": 58,
+                    "y": 124,
+                    "z": 119
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 55,
+                    "y": 114,
+                    "z": 50
+                },
+                "second": {
+                    "x": 56,
+                    "y": 115,
+                    "z": 58
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        }
+    ]
+}
