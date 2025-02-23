@@ -1,0 +1,181 @@
+{
+    "authors": ["Yqloss", "bin_bin233", "Accarc"],
+    "rules": [
+        {
+            "range": {
+                "first": { "x": 56, "y": 20, "z": 124 },
+                "second": { "x": 57, "y": 21, "z": 125 }
+            },
+            "rule": {
+                "block": { "blockID": "gold_block", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 30, "y": 5, "z": 96 },
+                "second": { "x": 33, "y": 6, "z": 99 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 10 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 80, "y": 5, "z": 98 },
+                "second": { "x": 83, "y": 6, "z": 101 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 10 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 9, "y": 6, "z": 82 },
+                "second": { "x": 12, "y": 7, "z": 85 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 14 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 5, "z": 109 },
+                "second": { "x": 50, "y": 6, "z": 112 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 52, "y": 4, "z": 89 },
+                "second": { "x": 55, "y": 5, "z": 92 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 1 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 16, "y": 5, "z": 85 },
+                "second": { "x": 19, "y": 6, "z": 88 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 14 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 55, "y": 4, "z": 69 },
+                "second": { "x": 58, "y": 5, "z": 72 }
+            },
+            "rule": {
+                "block": { "blockID": "gold_block", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 53, "y": 4, "z": 84 },
+                "second": { "x": 56, "y": 5, "z": 87 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 14 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 57, "y": 5, "z": 69 },
+                "second": { "x": 58, "y": 6, "z": 70 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 88, "y": 5, "z": 69 },
+                "second": { "x": 91, "y": 6, "z": 72 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 52, "y": 6, "z": 120 },
+                "second": { "x": 55, "y": 7, "z": 123 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 5 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 30, "y": 20, "z": 57 },
+                "second": { "x": 31, "y": 21, "z": 58 }
+            },
+            "rule": {
+                "block": { "blockID": "gold_block", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 27, "y": 20, "z": 90 },
+                "second": { "x": 28, "y": 21, "z": 91 }
+            },
+            "rule": {
+                "block": { "blockID": "gold_block", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 85, "y": 21, "z": 98 },
+                "second": { "x": 86, "y": 22, "z": 99 }
+            },
+            "rule": {
+                "block": { "blockID": "gold_block", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 84, "y": 21, "z": 59 },
+                "second": { "x": 85, "y": 22, "z": 60 }
+            },
+            "rule": {
+                "block": { "blockID": "gold_block", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        }
+    ]
+}

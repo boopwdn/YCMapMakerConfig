@@ -1,0 +1,2095 @@
+{
+    "authors": ["Yqloss"],
+    "rules": [
+        {
+            "range": {
+                "first": { "x": 42, "y": 4, "z": 76 },
+                "second": { "x": 43, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 42, "y": 4, "z": 77 },
+                "second": { "x": 43, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 42, "y": 4, "z": 78 },
+                "second": { "x": 43, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 43, "y": 4, "z": 79 },
+                "second": { "x": 44, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 44, "y": 4, "z": 79 },
+                "second": { "x": 45, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 45, "y": 4, "z": 79 },
+                "second": { "x": 46, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 46, "y": 4, "z": 78 },
+                "second": { "x": 47, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 42, "y": 5, "z": 75 },
+                "second": { "x": 43, "y": 6, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 42, "y": 5, "z": 74 },
+                "second": { "x": 43, "y": 6, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 44, "y": 5, "z": 73 },
+                "second": { "x": 45, "y": 6, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 45, "y": 5, "z": 73 },
+                "second": { "x": 46, "y": 6, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 48, "y": 5, "z": 76 },
+                "second": { "x": 49, "y": 6, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 42, "y": 4, "z": 75 },
+                "second": { "x": 43, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 42, "y": 4, "z": 74 },
+                "second": { "x": 43, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 43, "y": 4, "z": 73 },
+                "second": { "x": 44, "y": 5, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 44, "y": 4, "z": 73 },
+                "second": { "x": 45, "y": 5, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 45, "y": 4, "z": 73 },
+                "second": { "x": 46, "y": 5, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 46, "y": 4, "z": 74 },
+                "second": { "x": 47, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 48, "y": 4, "z": 79 },
+                "second": { "x": 49, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 48, "y": 4, "z": 78 },
+                "second": { "x": 49, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 48, "y": 4, "z": 77 },
+                "second": { "x": 49, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 48, "y": 4, "z": 75 },
+                "second": { "x": 49, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 48, "y": 4, "z": 73 },
+                "second": { "x": 49, "y": 5, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 48, "y": 4, "z": 76 },
+                "second": { "x": 49, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 51, "y": 4, "z": 79 },
+                "second": { "x": 52, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 52, "y": 4, "z": 79 },
+                "second": { "x": 53, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 53, "y": 4, "z": 79 },
+                "second": { "x": 54, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 54, "y": 4, "z": 79 },
+                "second": { "x": 55, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 54, "y": 4, "z": 78 },
+                "second": { "x": 55, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 54, "y": 4, "z": 77 },
+                "second": { "x": 55, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 54, "y": 4, "z": 76 },
+                "second": { "x": 55, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 53, "y": 4, "z": 75 },
+                "second": { "x": 54, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 52, "y": 4, "z": 75 },
+                "second": { "x": 53, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 51, "y": 4, "z": 75 },
+                "second": { "x": 52, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 51, "y": 4, "z": 77 },
+                "second": { "x": 52, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 53, "y": 4, "z": 77 },
+                "second": { "x": 54, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 52, "y": 4, "z": 77 },
+                "second": { "x": 53, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 50, "y": 4, "z": 78 },
+                "second": { "x": 51, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 57, "y": 4, "z": 79 },
+                "second": { "x": 58, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 56, "y": 4, "z": 78 },
+                "second": { "x": 57, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 56, "y": 4, "z": 77 },
+                "second": { "x": 57, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 56, "y": 4, "z": 76 },
+                "second": { "x": 57, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 56, "y": 4, "z": 75 },
+                "second": { "x": 57, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 56, "y": 4, "z": 74 },
+                "second": { "x": 57, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 56, "y": 4, "z": 73 },
+                "second": { "x": 57, "y": 5, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 60, "y": 4, "z": 79 },
+                "second": { "x": 61, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 59, "y": 4, "z": 78 },
+                "second": { "x": 60, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 59, "y": 4, "z": 77 },
+                "second": { "x": 60, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 59, "y": 4, "z": 76 },
+                "second": { "x": 60, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 59, "y": 4, "z": 75 },
+                "second": { "x": 60, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 59, "y": 4, "z": 74 },
+                "second": { "x": 60, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 59, "y": 4, "z": 73 },
+                "second": { "x": 60, "y": 5, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 63, "y": 4, "z": 79 },
+                "second": { "x": 64, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 64, "y": 4, "z": 79 },
+                "second": { "x": 65, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 65, "y": 4, "z": 79 },
+                "second": { "x": 66, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 66, "y": 4, "z": 78 },
+                "second": { "x": 67, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 66, "y": 4, "z": 77 },
+                "second": { "x": 67, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 66, "y": 4, "z": 76 },
+                "second": { "x": 67, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 65, "y": 4, "z": 75 },
+                "second": { "x": 66, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 64, "y": 4, "z": 75 },
+                "second": { "x": 65, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 63, "y": 4, "z": 75 },
+                "second": { "x": 64, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 62, "y": 4, "z": 78 },
+                "second": { "x": 63, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 62, "y": 4, "z": 77 },
+                "second": { "x": 63, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 62, "y": 4, "z": 76 },
+                "second": { "x": 63, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 6 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 62, "y": 5, "z": 77 },
+                "second": { "x": 63, "y": 6, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 62, "y": 5, "z": 76 },
+                "second": { "x": 63, "y": 6, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 5, "z": 79 },
+                "second": { "x": 48, "y": 6, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 5, "z": 78 },
+                "second": { "x": 48, "y": 6, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 5, "z": 77 },
+                "second": { "x": 48, "y": 6, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 5, "z": 76 },
+                "second": { "x": 48, "y": 6, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 44, "y": 5, "z": 74 },
+                "second": { "x": 45, "y": 6, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 46, "y": 5, "z": 73 },
+                "second": { "x": 47, "y": 6, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 46, "y": 5, "z": 72 },
+                "second": { "x": 47, "y": 6, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 45, "y": 5, "z": 72 },
+                "second": { "x": 46, "y": 6, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 5, "z": 72 },
+                "second": { "x": 48, "y": 6, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 63, "y": 5, "z": 72 },
+                "second": { "x": 64, "y": 6, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 63, "y": 5, "z": 73 },
+                "second": { "x": 64, "y": 6, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 63, "y": 5, "z": 74 },
+                "second": { "x": 64, "y": 6, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 62, "y": 5, "z": 74 },
+                "second": { "x": 63, "y": 6, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 62, "y": 5, "z": 75 },
+                "second": { "x": 63, "y": 6, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 64, "y": 5, "z": 74 },
+                "second": { "x": 65, "y": 6, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 65, "y": 5, "z": 74 },
+                "second": { "x": 66, "y": 6, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 66, "y": 5, "z": 75 },
+                "second": { "x": 67, "y": 6, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 66, "y": 5, "z": 74 },
+                "second": { "x": 67, "y": 6, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 67, "y": 5, "z": 75 },
+                "second": { "x": 68, "y": 6, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 67, "y": 5, "z": 76 },
+                "second": { "x": 68, "y": 6, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 61, "y": 5, "z": 80 },
+                "second": { "x": 62, "y": 6, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 60, "y": 5, "z": 80 },
+                "second": { "x": 61, "y": 6, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 61, "y": 5, "z": 79 },
+                "second": { "x": 62, "y": 6, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 61, "y": 5, "z": 78 },
+                "second": { "x": 62, "y": 6, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 61, "y": 5, "z": 77 },
+                "second": { "x": 62, "y": 6, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 5, "z": 80 },
+                "second": { "x": 48, "y": 6, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 41, "y": 5, "z": 75 },
+                "second": { "x": 42, "y": 6, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 68, "y": 5, "z": 76 },
+                "second": { "x": 69, "y": 6, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 60, "y": 5, "z": 71 },
+                "second": { "x": 61, "y": 6, "z": 72 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 63, "y": 5, "z": 71 },
+                "second": { "x": 64, "y": 6, "z": 72 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 64, "y": 5, "z": 71 },
+                "second": { "x": 65, "y": 6, "z": 72 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 48, "y": 5, "z": 71 },
+                "second": { "x": 49, "y": 6, "z": 72 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 5, "z": 71 },
+                "second": { "x": 48, "y": 6, "z": 72 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 45, "y": 5, "z": 71 },
+                "second": { "x": 46, "y": 6, "z": 72 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 44, "y": 5, "z": 71 },
+                "second": { "x": 45, "y": 6, "z": 72 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 40, "y": 5, "z": 76 },
+                "second": { "x": 41, "y": 6, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 5, "z": 81 },
+                "second": { "x": 48, "y": 6, "z": 82 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 48, "y": 5, "z": 81 },
+                "second": { "x": 49, "y": 6, "z": 82 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 41, "y": 4, "z": 78 },
+                "second": { "x": 42, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 41, "y": 4, "z": 77 },
+                "second": { "x": 42, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 43, "y": 4, "z": 77 },
+                "second": { "x": 44, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 43, "y": 4, "z": 76 },
+                "second": { "x": 44, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 43, "y": 4, "z": 75 },
+                "second": { "x": 44, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 44, "y": 4, "z": 76 },
+                "second": { "x": 45, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 45, "y": 4, "z": 76 },
+                "second": { "x": 46, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 45, "y": 4, "z": 75 },
+                "second": { "x": 46, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 45, "y": 4, "z": 74 },
+                "second": { "x": 46, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 44, "y": 4, "z": 75 },
+                "second": { "x": 45, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 46, "y": 4, "z": 75 },
+                "second": { "x": 47, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 4, "z": 75 },
+                "second": { "x": 48, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 4, "z": 74 },
+                "second": { "x": 48, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 4, "z": 73 },
+                "second": { "x": 48, "y": 5, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 48, "y": 4, "z": 74 },
+                "second": { "x": 49, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 49, "y": 4, "z": 73 },
+                "second": { "x": 50, "y": 5, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 49, "y": 4, "z": 72 },
+                "second": { "x": 50, "y": 5, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 48, "y": 4, "z": 72 },
+                "second": { "x": 49, "y": 5, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 51, "y": 4, "z": 72 },
+                "second": { "x": 52, "y": 5, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 50, "y": 4, "z": 72 },
+                "second": { "x": 51, "y": 5, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 58, "y": 4, "z": 72 },
+                "second": { "x": 59, "y": 5, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 57, "y": 4, "z": 72 },
+                "second": { "x": 58, "y": 5, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 61, "y": 4, "z": 72 },
+                "second": { "x": 62, "y": 5, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 62, "y": 4, "z": 72 },
+                "second": { "x": 63, "y": 5, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 62, "y": 4, "z": 73 },
+                "second": { "x": 63, "y": 5, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 61, "y": 4, "z": 73 },
+                "second": { "x": 62, "y": 5, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 60, "y": 4, "z": 73 },
+                "second": { "x": 61, "y": 5, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 60, "y": 4, "z": 74 },
+                "second": { "x": 61, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 61, "y": 4, "z": 74 },
+                "second": { "x": 62, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 61, "y": 4, "z": 75 },
+                "second": { "x": 62, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 60, "y": 4, "z": 75 },
+                "second": { "x": 61, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 60, "y": 4, "z": 76 },
+                "second": { "x": 61, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 61, "y": 4, "z": 76 },
+                "second": { "x": 62, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 60, "y": 4, "z": 78 },
+                "second": { "x": 61, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 60, "y": 4, "z": 77 },
+                "second": { "x": 61, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 63, "y": 4, "z": 76 },
+                "second": { "x": 64, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 64, "y": 4, "z": 76 },
+                "second": { "x": 65, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 65, "y": 4, "z": 76 },
+                "second": { "x": 66, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 65, "y": 4, "z": 77 },
+                "second": { "x": 66, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 67, "y": 4, "z": 78 },
+                "second": { "x": 68, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 67, "y": 4, "z": 77 },
+                "second": { "x": 68, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 59, "y": 4, "z": 79 },
+                "second": { "x": 60, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 55, "y": 4, "z": 77 },
+                "second": { "x": 56, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 55, "y": 4, "z": 76 },
+                "second": { "x": 56, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 55, "y": 4, "z": 75 },
+                "second": { "x": 56, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 54, "y": 4, "z": 75 },
+                "second": { "x": 55, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 54, "y": 4, "z": 74 },
+                "second": { "x": 55, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 53, "y": 4, "z": 76 },
+                "second": { "x": 54, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 52, "y": 4, "z": 76 },
+                "second": { "x": 53, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 49, "y": 4, "z": 79 },
+                "second": { "x": 50, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 49, "y": 4, "z": 78 },
+                "second": { "x": 50, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 49, "y": 4, "z": 77 },
+                "second": { "x": 50, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 49, "y": 4, "z": 80 },
+                "second": { "x": 50, "y": 5, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 48, "y": 4, "z": 80 },
+                "second": { "x": 49, "y": 5, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 50, "y": 4, "z": 80 },
+                "second": { "x": 51, "y": 5, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 41, "y": 5, "z": 76 },
+                "second": { "x": 42, "y": 6, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 41, "y": 4, "z": 76 },
+                "second": { "x": 42, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 41, "y": 4, "z": 75 },
+                "second": { "x": 42, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 44, "y": 4, "z": 74 },
+                "second": { "x": 45, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 43, "y": 4, "z": 74 },
+                "second": { "x": 44, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 43, "y": 5, "z": 74 },
+                "second": { "x": 44, "y": 6, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 46, "y": 4, "z": 73 },
+                "second": { "x": 47, "y": 5, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 46, "y": 4, "z": 72 },
+                "second": { "x": 47, "y": 5, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 45, "y": 4, "z": 72 },
+                "second": { "x": 46, "y": 5, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 4, "z": 72 },
+                "second": { "x": 48, "y": 5, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 63, "y": 4, "z": 72 },
+                "second": { "x": 64, "y": 5, "z": 73 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 63, "y": 4, "z": 74 },
+                "second": { "x": 64, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 63, "y": 4, "z": 73 },
+                "second": { "x": 64, "y": 5, "z": 74 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 64, "y": 4, "z": 74 },
+                "second": { "x": 65, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 66, "y": 4, "z": 74 },
+                "second": { "x": 67, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 65, "y": 4, "z": 74 },
+                "second": { "x": 66, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 66, "y": 4, "z": 75 },
+                "second": { "x": 67, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 67, "y": 4, "z": 75 },
+                "second": { "x": 68, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 67, "y": 4, "z": 76 },
+                "second": { "x": 68, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 61, "y": 4, "z": 80 },
+                "second": { "x": 62, "y": 5, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 60, "y": 4, "z": 80 },
+                "second": { "x": 61, "y": 5, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 61, "y": 4, "z": 79 },
+                "second": { "x": 62, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 61, "y": 4, "z": 78 },
+                "second": { "x": 62, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 61, "y": 4, "z": 77 },
+                "second": { "x": 62, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 62, "y": 4, "z": 75 },
+                "second": { "x": 63, "y": 5, "z": 76 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 62, "y": 4, "z": 74 },
+                "second": { "x": 63, "y": 5, "z": 75 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 4, "z": 80 },
+                "second": { "x": 48, "y": 5, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 4, "z": 79 },
+                "second": { "x": 48, "y": 5, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 4, "z": 78 },
+                "second": { "x": 48, "y": 5, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 4, "z": 77 },
+                "second": { "x": 48, "y": 5, "z": 78 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 4, "z": 76 },
+                "second": { "x": 48, "y": 5, "z": 77 }
+            },
+            "rule": {
+                "block": { "blockID": "stonebrick", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        }
+    ]
+}

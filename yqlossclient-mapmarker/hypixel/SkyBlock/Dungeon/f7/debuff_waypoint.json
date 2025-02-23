@@ -1,0 +1,126 @@
+{
+    "authors": ["bin_bin233"],
+    "rules": [
+        {
+            "range": {
+                "first": { "x": 27, "y": 6, "z": 91 },
+                "second": { "x": 28, "y": 7, "z": 92 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 5 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 27, "y": 20, "z": 91 },
+                "second": { "x": 28, "y": 21, "z": 92 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 5 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 29, "y": 5, "z": 56 },
+                "second": { "x": 30, "y": 6, "z": 57 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 14 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 29, "y": 6, "z": 56 },
+                "second": { "x": 30, "y": 7, "z": 57 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 14 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 29, "y": 20, "z": 56 },
+                "second": { "x": 30, "y": 21, "z": 57 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 14 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 83, "y": 6, "z": 59 },
+                "second": { "x": 84, "y": 7, "z": 60 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 1 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 83, "y": 21, "z": 59 },
+                "second": { "x": 84, "y": 22, "z": 60 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 1 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 83, "y": 21, "z": 97 },
+                "second": { "x": 84, "y": 22, "z": 98 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 83, "y": 6, "z": 97 },
+                "second": { "x": 84, "y": 7, "z": 98 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 56, "y": 8, "z": 125 },
+                "second": { "x": 57, "y": 9, "z": 126 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 2 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 56, "y": 20, "z": 125 },
+                "second": { "x": 57, "y": 21, "z": 126 }
+            },
+            "rule": {
+                "block": { "blockID": "wool", "meta": 2 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        }
+    ]
+}

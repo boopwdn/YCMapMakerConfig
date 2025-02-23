@@ -1,0 +1,61 @@
+{
+    "authors": ["Yqloss"],
+    "rules": [
+        {
+            "range": {
+                "first": { "x": 43, "y": 169, "z": 38 },
+                "second": { "x": 50, "y": 206, "z": 45 }
+            },
+            "rule": {
+                "block": { "blockID": "stained_glass", "meta": 5 },
+                "conditions": [
+                    { "blockID": "stone", "meta": 3 },
+                    { "blockID": "stone", "meta": 4 }
+                ],
+                "replaceMode": true
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 43, "y": 169, "z": 62 },
+                "second": { "x": 50, "y": 206, "z": 69 }
+            },
+            "rule": {
+                "block": { "blockID": "stained_glass", "meta": 4 },
+                "conditions": [
+                    { "blockID": "stone", "meta": 3 },
+                    { "blockID": "stone", "meta": 4 }
+                ],
+                "replaceMode": true
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 97, "y": 181, "z": 38 },
+                "second": { "x": 104, "y": 206, "z": 45 }
+            },
+            "rule": {
+                "block": { "blockID": "stained_glass", "meta": 14 },
+                "conditions": [
+                    { "blockID": "stone", "meta": 3 },
+                    { "blockID": "stone", "meta": 4 }
+                ],
+                "replaceMode": true
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 97, "y": 169, "z": 62 },
+                "second": { "x": 104, "y": 206, "z": 69 }
+            },
+            "rule": {
+                "block": { "blockID": "stained_glass", "meta": 10 },
+                "conditions": [
+                    { "blockID": "stone", "meta": 3 },
+                    { "blockID": "stone", "meta": 4 }
+                ],
+                "replaceMode": true
+            }
+        }
+    ]
+}

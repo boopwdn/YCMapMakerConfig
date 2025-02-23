@@ -1,0 +1,159 @@
+{
+    "authors": ["Yqloss", "bin_bin233"],
+    "rules": [
+        {
+            "range": {
+                "first": { "x": 55, "y": 64, "z": 78 },
+                "second": { "x": 56, "y": 65, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 55, "y": 64, "z": 79 },
+                "second": { "x": 56, "y": 65, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 56, "y": 64, "z": 79 },
+                "second": { "x": 57, "y": 65, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 56, "y": 64, "z": 80 },
+                "second": { "x": 57, "y": 65, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 57, "y": 64, "z": 80 },
+                "second": { "x": 58, "y": 65, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 55, "y": 64, "z": 80 },
+                "second": { "x": 56, "y": 65, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 55, "y": 64, "z": 81 },
+                "second": { "x": 56, "y": 65, "z": 82 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 53, "y": 64, "z": 78 },
+                "second": { "x": 54, "y": 65, "z": 79 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 53, "y": 64, "z": 79 },
+                "second": { "x": 54, "y": 65, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 52, "y": 64, "z": 79 },
+                "second": { "x": 53, "y": 65, "z": 80 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 51, "y": 64, "z": 80 },
+                "second": { "x": 52, "y": 65, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 52, "y": 64, "z": 80 },
+                "second": { "x": 53, "y": 65, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 53, "y": 64, "z": 80 },
+                "second": { "x": 54, "y": 65, "z": 81 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 53, "y": 64, "z": 81 },
+                "second": { "x": 54, "y": 65, "z": 82 }
+            },
+            "rule": {
+                "block": { "blockID": "carpet", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        }
+    ]
+}

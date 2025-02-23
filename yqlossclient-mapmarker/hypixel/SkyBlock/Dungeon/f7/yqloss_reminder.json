@@ -1,0 +1,104 @@
+{
+    "authors": ["Yqloss"],
+    "rules": [
+        {
+            "range": {
+                "first": { "x": 106, "y": 124, "z": 113 },
+                "second": { "x": 107, "y": 125, "z": 114 }
+            },
+            "rule": {
+                "block": { "blockID": "tnt", "meta": 0 },
+                "conditions": [{ "blockID": "lever", "meta": 5 }],
+                "replaceMode": true
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 94, "y": 124, "z": 113 },
+                "second": { "x": 95, "y": 125, "z": 114 }
+            },
+            "rule": {
+                "block": { "blockID": "tnt", "meta": 0 },
+                "conditions": [{ "blockID": "lever", "meta": 5 }],
+                "replaceMode": true
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 94, "y": 119, "z": 121 },
+                "second": { "x": 96, "y": 123, "z": 123 }
+            },
+            "rule": {
+                "block": { "blockID": "tnt", "meta": 0 },
+                "conditions": [{ "blockID": "air", "meta": 0 }],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 49, "y": 110, "z": 129 },
+                "second": { "x": 59, "y": 111, "z": 130 }
+            },
+            "rule": {
+                "block": { "blockID": "stained_glass", "meta": 5 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 111, "z": 126 },
+                "second": { "x": 48, "y": 112, "z": 137 }
+            },
+            "rule": {
+                "block": { "blockID": "diamond_block", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 112, "z": 135 },
+                "second": { "x": 48, "y": 113, "z": 136 }
+            },
+            "rule": {
+                "block": { "blockID": "diamond_block", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 113, "z": 134 },
+                "second": { "x": 48, "y": 114, "z": 135 }
+            },
+            "rule": {
+                "block": { "blockID": "diamond_block", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 109, "z": 134 },
+                "second": { "x": 48, "y": 110, "z": 135 }
+            },
+            "rule": {
+                "block": { "blockID": "diamond_block", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 47, "y": 110, "z": 135 },
+                "second": { "x": 48, "y": 111, "z": 136 }
+            },
+            "rule": {
+                "block": { "blockID": "diamond_block", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        }
+    ]
+}

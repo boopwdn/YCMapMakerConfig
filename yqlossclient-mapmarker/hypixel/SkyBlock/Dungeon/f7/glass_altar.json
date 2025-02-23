@@ -1,0 +1,115 @@
+{
+    "authors": ["Yqloss"],
+    "rules": [
+        {
+            "range": {
+                "first": { "x": 49, "y": 7, "z": 44 },
+                "second": { "x": 50, "y": 8, "z": 45 }
+            },
+            "rule": {
+                "block": { "blockID": "stained_glass", "meta": 13 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 51, "y": 7, "z": 42 },
+                "second": { "x": 52, "y": 8, "z": 43 }
+            },
+            "rule": {
+                "block": { "blockID": "stained_glass", "meta": 14 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 54, "y": 7, "z": 41 },
+                "second": { "x": 55, "y": 8, "z": 42 }
+            },
+            "rule": {
+                "block": { "blockID": "stained_glass", "meta": 10 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 57, "y": 7, "z": 42 },
+                "second": { "x": 58, "y": 8, "z": 43 }
+            },
+            "rule": {
+                "block": { "blockID": "stained_glass", "meta": 1 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 59, "y": 7, "z": 44 },
+                "second": { "x": 60, "y": 8, "z": 45 }
+            },
+            "rule": {
+                "block": { "blockID": "stained_glass", "meta": 3 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 49, "y": 6, "z": 44 },
+                "second": { "x": 50, "y": 7, "z": 45 }
+            },
+            "rule": {
+                "block": { "blockID": "enchanting_table", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 51, "y": 6, "z": 42 },
+                "second": { "x": 52, "y": 7, "z": 43 }
+            },
+            "rule": {
+                "block": { "blockID": "enchanting_table", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 54, "y": 6, "z": 41 },
+                "second": { "x": 55, "y": 7, "z": 42 }
+            },
+            "rule": {
+                "block": { "blockID": "enchanting_table", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 57, "y": 6, "z": 42 },
+                "second": { "x": 58, "y": 7, "z": 43 }
+            },
+            "rule": {
+                "block": { "blockID": "enchanting_table", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 59, "y": 6, "z": 44 },
+                "second": { "x": 60, "y": 7, "z": 45 }
+            },
+            "rule": {
+                "block": { "blockID": "enchanting_table", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        }
+    ]
+}

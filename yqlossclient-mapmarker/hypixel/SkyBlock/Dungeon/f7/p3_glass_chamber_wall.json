@@ -1,0 +1,63 @@
+{
+    "authors": ["Yqloss"],
+    "rules": [
+        {
+            "range": {
+                "first": { "x": 39, "y": 115, "z": 55 },
+                "second": { "x": 70, "y": 122, "z": 59 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 21, "y": 115, "z": 48 },
+                "second": { "x": 70, "y": 122, "z": 54 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 21, "y": 115, "z": 55 },
+                "second": { "x": 39, "y": 122, "z": 59 }
+            },
+            "rule": {
+                "block": { "blockID": "air", "meta": 0 },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 21, "y": 115, "z": 54 },
+                "second": { "x": 70, "y": 122, "z": 55 }
+            },
+            "rule": {
+                "block": { "blockID": "glass", "meta": 0 },
+                "conditions": [
+                    { "blockID": "air", "meta": 0 },
+                    { "blockID": "gold_block", "meta": 0 }
+                ],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": { "x": 52, "y": 115, "z": 54 },
+                "second": { "x": 57, "y": 122, "z": 55 }
+            },
+            "rule": {
+                "block": { "blockID": "stained_glass", "meta": 4 },
+                "conditions": [{ "blockID": "gold_block", "meta": 0 }],
+                "replaceMode": true
+            }
+        }
+    ]
+}
