@@ -1,0 +1,181 @@
+{
+    "authors": ["bin_bin233"],
+    "rules": [
+        {
+            "range": {
+                "first": {
+                    "x": 110,
+                    "y": 124,
+                    "z": 91
+                },
+                "second": {
+                    "x": 111,
+                    "y": 125,
+                    "z": 92
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "air",
+                    "meta": 0
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 110,
+                    "y": 119,
+                    "z": 91
+                },
+                "second": {
+                    "x": 111,
+                    "y": 120,
+                    "z": 92
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "air",
+                    "meta": 0
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 110,
+                    "y": 119,
+                    "z": 96
+                },
+                "second": {
+                    "x": 111,
+                    "y": 120,
+                    "z": 97
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "air",
+                    "meta": 0
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 110,
+                    "y": 124,
+                    "z": 96
+                },
+                "second": {
+                    "x": 111,
+                    "y": 125,
+                    "z": 97
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "air",
+                    "meta": 0
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 111,
+                    "y": 121,
+                    "z": 91
+                },
+                "second": {
+                    "x": 112,
+                    "y": 122,
+                    "z": 92
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 111,
+                    "y": 119,
+                    "z": 91
+                },
+                "second": {
+                    "x": 112,
+                    "y": 125,
+                    "z": 97
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 5
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 111,
+                    "y": 121,
+                    "z": 91
+                },
+                "second": {
+                    "x": 112,
+                    "y": 122,
+                    "z": 92
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "stained_glass",
+                    "meta": 3
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        },
+        {
+            "range": {
+                "first": {
+                    "x": 112,
+                    "y": 119,
+                    "z": 91
+                },
+                "second": {
+                    "x": 113,
+                    "y": 125,
+                    "z": 97
+                }
+            },
+            "rule": {
+                "block": {
+                    "blockID": "wool",
+                    "meta": 5
+                },
+                "conditions": [],
+                "replaceMode": false
+            }
+        }
+    ]
+}
